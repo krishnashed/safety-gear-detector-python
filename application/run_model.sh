@@ -1,0 +1,1 @@
+python safety_gear_detector.py -m ~/safety-gear-detector-python/resources/worker-safety-mobilenet/person-detection-retail-0013.xml -sm ~/safety-gear-detector-python/resources/worker-safety-mobilenet/worker_safety_mobilenet.xml
